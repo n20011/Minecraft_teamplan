@@ -14,7 +14,7 @@
 
 ### 6/15
 
-- サーバーの選定と年間スケジュールを決めました。
+- サーバーの選定と年間スケジュールを決めました。  
 [年間スケジュール](https://docs.google.com/document/d/1VIKox1CF2IxkwvJ4Oc3n1mGflR2vfEfMGAkEKS8jqfU/edit)  
 [サーバー選定結果](https://docs.google.com/spreadsheets/d/1rMOViQ3uV9RHxNNq8lAEA9Dzw8mhb_8wJP8gzemT61k/edit?usp=sharing)  
 

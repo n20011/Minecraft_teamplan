@@ -3,9 +3,9 @@
 ## 目標
 
 サバイバルモード(ゲーム内で敵や体力がありゲームオーバーがあるモードのこと)でITカレッジを制作し、そこから近辺の建物を再現する。  
-
-
-
+<br>
+<br>
+<br>
 ## 活動内容
 ### 5/19
 
@@ -18,3 +18,7 @@
 [年間スケジュール](https://docs.google.com/document/d/1VIKox1CF2IxkwvJ4Oc3n1mGflR2vfEfMGAkEKS8jqfU/edit)  
 [サーバー選定結果](https://docs.google.com/spreadsheets/d/1rMOViQ3uV9RHxNNq8lAEA9Dzw8mhb_8wJP8gzemT61k/edit?usp=sharing)  
 
+### 7/14
+
+- ITカレッジをマインクラフトのゲーム内に制作するにあたってブロックの選定を開始しました。
+- 日程として週に３回（月・水・金）２１時からみんなで選定をする時間を決めました。

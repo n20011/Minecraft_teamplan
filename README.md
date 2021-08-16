@@ -37,5 +37,4 @@
 ### 8/2
 
 - 2階の明るさ調整や、3階の外装の制作を行いました。
-![photo0802-1](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0802_1.png)
-![photo0802-2](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0802_2.png)
+![photo0802-1](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0802_1.png)![photo0802-2](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0802_2.png)

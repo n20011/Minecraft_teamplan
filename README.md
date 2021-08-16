@@ -33,3 +33,9 @@
 
 - ２階を金城先生が制作したエクセルの図の通りに制作しました。
 ![photo0730](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0730_1.png)
+
+### 8/2
+
+- 2階の明るさ調整や、3階の外装の制作を行いました。
+![photo0802-1](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0802_1.png)
+![photo0802-2](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0802_2.png)

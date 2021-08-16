@@ -32,4 +32,4 @@
 ### 7/30
 
 - ２階を金城先生が制作したエクセルの図の通りに制作しました。
-![photo0730](https://github.com/n20011/Minecraft_teamplan/photo/photo0730_1.png)
+![photo0730](https://github.com/n20011/Minecraft_teamplan/blob/main/photo/photo0730_1.png)

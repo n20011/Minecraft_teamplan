@@ -53,6 +53,6 @@
 
 - 先生方が参加してくれたおかげで２階の職員室など生徒が入れない所の再現度が高まりました。
 - ちなみに２階の喫煙所の再現度が一番高くなりました。
-![photo0820-1](https://github.com/n20011/Minecraft_teamplan/blob/main/.photo/photo0802_1)
+![photo0820-1](https://github.com/n20011/Minecraft_teamplan/blob/main/.photo/photo0820_1.png)
 
 
